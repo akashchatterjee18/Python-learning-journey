@@ -11,6 +11,6 @@ This repository contains my Python practice code while learning:
 - Regular Expressions (regex)
 - NumPy basics
 - Pandas basics
-- Matplotlib basics
+- Data Visualisation basics
 
 Status: Learning in progress ✅
