@@ -1,6 +1,6 @@
-import MODULES
-MODULES.say_hello("Ayush Chatterjee")
-MODULES.say_bye("Ayush Chatterjee")
+import modules
+modules.say_hello("Ayush Chatterjee")
+modules.say_bye("Ayush Chatterjee")
 
-from MODULES import person1
+from modules import person1
 print(person1['age'])
