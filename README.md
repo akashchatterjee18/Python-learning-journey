@@ -3,14 +3,14 @@
 This repository contains my Python practice code while learning:
 
 - Basics (variables, type casting, input/output)
-- Conditional statements and loops
-- Functions and recursion
+- Conditional statements and Loops
+- Functions and Recursion
 - OOP concepts
-- Data structures (tuples, sets, dictionaries)
-- Modules and packages
+- List, Tuples, Sets, Dictionaries
+- Modules, Packages and Libraries
 - Regular Expressions (regex)
-- NumPy basics
-- Pandas basics
-- Data Visualisation basics
+- NumPy
+- Pandas
+- Data Visualisation
 
-Status: Learning in progress ✅
+
